@@ -1,0 +1,35 @@
+.pure-form {
+    border: solid 1px;
+    border-radius: 20px;
+    background-color: #ebadd3;
+}
+
+#dato {
+    width: 300px;
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    background-color: #cdc3f8;
+}
+
+#dato p {
+    margin-left: 10px;
+}
+
+legend {
+    margin-left: 10px;
+}
+
+#dato label {
+    margin-left: 5px;
+}
+
+#pickup_place,
+#dejar_en,
+#comentarios {
+    width: 200px;
+}
+
+#dato button {
+    background-color: #C2ADBF;
+}

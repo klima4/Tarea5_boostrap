@@ -1,0 +1,25 @@
+body {
+    background-color:violet;
+  }
+
+.card {
+    width: 400px;
+    background-color: violet;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#cajita {
+    margin-top: 15px;
+    margin-bottom: 10px;
+    background-color: #5078dd;
+}
+
+#cajita legend {
+    font-size: 25px;
+    color: rgb(105, 214, 233);
+}
+
+#cajita p,
+label {
+    color: rgb(255, 255, 255);
+}
